@@ -1,0 +1,15 @@
+admissible
+agent
+backtrack
+cannibal
+deadend
+global
+graphsearch
+heuristic
+lisp
+local
+missionary
+optimum
+rational
+search
+symmetry
